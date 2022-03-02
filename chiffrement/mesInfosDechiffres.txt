@@ -1,0 +1,1 @@
+Le code du coffre-fort est 12345
